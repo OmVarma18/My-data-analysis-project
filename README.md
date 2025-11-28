@@ -17,7 +17,7 @@ The organization needed a clearer understanding of customer shopping behavior to
 - Imputed missing *Review Rating* values using median per product category.  
 - Created *age_group* and *purchase_frequency_days* features.  
 - Removed redundant *promo_code_used* column.  
-✓ Loaded cleaned data into PostgreSQL. :contentReference[oaicite:2]{index=2}
+✓ Loaded cleaned data into PostgreSQL.
 
 ### 2️⃣ SQL Analysis  
 Used SQL queries to answer business-critical questions:
@@ -30,14 +30,14 @@ Used SQL queries to answer business-critical questions:
 - Product popularity by category  
 - Repeat buyers and subscription likelihood  
 - Revenue contribution by age group  
-📊 **Example:** Young Adults generated the highest total revenue ($62,143). :contentReference[oaicite:3]{index=3}
+📊 **Example:** Young Adults generated the highest total revenue ($62,143).
 
 ### 3️⃣ Dashboard (Power BI)  
 Designed a data visualization dashboard including:
 - Total customers (3.9K), Average purchase ($59.76), Avg. review rating (3.75)  
 - Subscription distribution: 27% subscribed, 73% not subscribed  
 - Revenue & sales by category and age group  
-- Customer interaction filters (Gender, Category, Shipping Type, etc.) :contentReference[oaicite:4]{index=4}
+- Customer interaction filters (Gender, Category, Shipping Type, etc.) 
 
 ---
 
@@ -59,7 +59,7 @@ Designed a data visualization dashboard including:
 ✔ **Subscribers** showed higher average purchase and total revenue.  
 ✔ **Express shipping** customers spent more than standard users.  
 ✔ **Top-selling products** were dominated by Clothing & Accessories.  
-✔ **Repeat buyers (5+ purchases)** were more likely to be subscribers. :contentReference[oaicite:5]{index=5}
+✔ **Repeat buyers (5+ purchases)** were more likely to be subscribers.
 
 ---
 
@@ -70,7 +70,7 @@ Designed a data visualization dashboard including:
 | 💳 Subscription Growth | Highlight exclusive benefits to drive subscriptions. |
 | 💸 Discount Strategy | Reassess discounting to maintain profit margins while sustaining sales. |
 | 📍 Product Strategy | Promote top-rated and best-selling items. |
-| 🎯 Targeted Marketing | Focus campaigns on high-revenue segments (e.g., Young Adults, Express shipping users). :contentReference[oaicite:6]{index=6} |
+| 🎯 Targeted Marketing | Focus campaigns on high-revenue segments (e.g., Young Adults, Express shipping users).
 
 ---
 
